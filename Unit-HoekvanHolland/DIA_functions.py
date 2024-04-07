@@ -59,7 +59,6 @@ def compute_DIA_matrices(A, B, Q_yy, Q_tt, c_vectors):
 
     return Pcti, Li
 
-
 def plot_partitionied_2D_misclosure_space(Pcti, Q_tt, Q_yy, alpha):
 
     # Input
